@@ -52,8 +52,8 @@ O arquivo .py de formato está em [release](https://github.com/CrashXBETAX/My_fi
 ## Uso:
 Quando aparecer duas entradas, deve colocar número inteiro no Y e X de coordenadas. Lembre-se que número de Y tem que ser maior de que de X
 ### Para versão de emoji: 
-Esse arquivo de código é .py de formato, deve abrir com Visual Studio Code para funcionar, não recomendo que use CMD ou proprio terminal de Python porque eles não suportam emoji. Também pode usar no Google Colaboratory com notebook de Project Jupyter. 
-### Para versão de emoji:
+Esse arquivo de código é .py de formato, deve abrir com Visual Studio Code para funcionar, também pode usar no Google Colaboratory com notebook de Project Jupyter. Não recomendo que use CMD ou proprio terminal de Python porque eles não suportam emoji. 
+### Para versão sem emoji:
 Pode abrir com CMD ou Microsoft Terminal ou proprio terminal de Python
 
 ## Licença
