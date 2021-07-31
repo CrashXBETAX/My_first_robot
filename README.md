@@ -14,6 +14,7 @@
     <li>
       <a href="#pré-requisitos">Pré requisitos</a>
     </li>
+    <li><a href="#instalação">Instalação</a></li>
     <li><a href="#uso">Uso</a></li>
     <li><a href="#licença">Licença</a></li>
     <li><a href="#contato">Contato</a></li>
@@ -46,6 +47,8 @@ Tem gerador de mapa com tamanho que você deseja. Robô autônomo deve encontrar
 ## Pré-requisitos
 Só requer a versão 3.9.5 de Python, acredito que pode funcionar com acima de 3, mas não testei ainda. Se funcionasse e poderia me avisar 😁.
 
+## Instalação:
+O arquivo .py de formato está em [release](https://github.com/CrashXBETAX/My_first_robot/releases)
 ## Uso:
 Quando aparecer duas entradas, deve colocar número inteiro no y e x. Lembre-se que número de Y tem que ser maior de que de X
 ### Para versão de emoji: 
